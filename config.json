@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configralculate",
+        "uuid": 1660347,
+        "checksum": "jylvlk"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
